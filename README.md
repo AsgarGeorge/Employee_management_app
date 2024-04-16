@@ -31,7 +31,7 @@ Material-UI or Bootstrap for UI components and styling.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AsgarGeorge/Employee_management_app.git
 ```
 
 Go to the project directory
@@ -57,7 +57,7 @@ Start the server
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AsgarGeorge/Employee_management_app.git
 ```
 
 Go to the project directory
