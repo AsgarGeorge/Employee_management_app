@@ -6,7 +6,7 @@ It is a project used to build my deep knowledge in spring boot framework by crea
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](screen shots/demo1.png)
 
 ## Technology Stack
 
