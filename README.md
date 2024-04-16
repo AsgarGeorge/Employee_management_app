@@ -73,4 +73,4 @@ start spring boot application
 before running the application make sure to setup to your database and add them in application property in resource folder
 ## Acknowledgements
 
- - build this website by watch [@DailyCodeBuffer](https://www.youtube.com/@DailyCodeBuffer) tutorial
+ - build this website by watching [@DailyCodeBuffer](https://www.youtube.com/@DailyCodeBuffer) tutorial
